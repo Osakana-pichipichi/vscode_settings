@@ -1,0 +1,10 @@
+{
+    "remote.SSH.showLoginTerminal": true,
+    "files.eol": "\n",
+    "editor.renderWhitespace": "boundary",
+    "files.autoSave": "onFocusChange",
+    "git.autofetch": true,
+    "editor.acceptSuggestionOnEnter": "off",
+    "bracketPairColorizer.depreciation-notice": false,
+    "workbench.colorTheme": "Default Dark+"
+}
